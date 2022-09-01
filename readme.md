@@ -1,7 +1,5 @@
 # <center>**Project 06 - Plant Home Page**</center>
 
-## **By : Kalpesh K Dhotre**
-<br>
 
 > ## Topics learnt in this project
 - include styling in html file - without CSS file
@@ -9,4 +7,15 @@
 <br><br><br>
 
 > ## Time to complete this project 
-> # <font color="Yellow">**3 Hrs**</font>
+> # <font color="Yellow">**4 Hrs**</font>
+
+## **By : Kalpesh K Dhotre**
+<br>
+
+### [🌏 Deployed link](https://kd-project-06.netlify.app/)
+<br>
+
+## Below is screenshot of webpage 
+<br>
+
+![Screenshot of project 1](./screenshot.jpeg)
